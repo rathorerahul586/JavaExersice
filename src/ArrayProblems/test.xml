@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="59542" it="0" lt="560" ct="126" ts="1557430596314" s="true" lb="Window" rc="200" rm="OK" tn="LiveStream 1-6" dt="" by="3015" sby="11490100" ng="50" na="50">
+  <sample t="47855" it="0" lt="28" ct="0" ts="1557430596884" s="true" lb="Window-0" rc="200" rm="OK" tn="LiveStream 1-6" dt="" by="1665" sby="8744857" ng="50" na="50">
+    <sample t="14759" it="0" lt="186" ct="0" ts="1557430596913" s="true" lb="index.m3u8-0" rc="200" rm="OK" tn="LiveStream 1-6" dt="" by="396" sby="2717698" ng="0" na="0"/>
+    <sample t="7866" it="0" lt="16" ct="0" ts="1557430611672" s="true" lb="index.m3u8-1" rc="200" rm="OK" tn="LiveStream 1-6" dt="" by="396" sby="1405655" ng="0" na="0"/>
+    <sample t="25201" it="0" lt="250" ct="0" ts="1557430619537" s="true" lb="index.m3u8-2" rc="200" rm="OK" tn="LiveStream 1-6" dt="" by="396" sby="4621359" ng="0" na="0"/>
+  </sample>
+  <sample t="11117" it="0" lt="8" ct="0" ts="1557430644739" s="true" lb="Window-1" rc="200" rm="OK" tn="LiveStream 1-6" dt="" by="873" sby="2745098" ng="50" na="50">
+    <sample t="11108" it="0" lt="16" ct="0" ts="1557430644748" s="true" lb="index.m3u8-0" rc="200" rm="OK" tn="LiveStream 1-6" dt="" by="396" sby="2744953" ng="0" na="0"/>
+  </sample>
+</sample>
+<sample t="60923" it="0" lt="15" ct="0" ts="1557430596875" s="true" lb="Window" rc="200" rm="OK" tn="LiveStream 1-31" dt="" by="3015" sby="11490100" ng="50" na="50">
+  <sample t="49054" it="0" lt="33" ct="0" ts="1557430596891" s="true" lb="Window-0" rc="200" rm="OK" tn="LiveStream 1-31" dt="" by="1665" sby="8744857" ng="50" na="50">
+    <sample t="14072" it="0" lt="196" ct="0" ts="1557430596925" s="true" lb="index.m3u8-0" rc="200" rm="OK" tn="LiveStream 1-31" dt="" by="396" sby="2717698" ng="0" na="0"/>
+    <sample t="7589" it="0" lt="233" ct="0" ts="1557430610997" s="true" lb="index.m3u8-1" rc="200" rm="OK" tn="LiveStream 1-31" dt="" by="396" sby="1405655" ng="0" na="0"/>
+    <sample t="27358" it="0" lt="261" ct="0" ts="1557430618586" s="true" lb="index.m3u8-2" rc="200" rm="OK" tn="LiveStream 1-31" dt="" by="396" sby="4621359" ng="0" na="0"/>
+  </sample>
+  <sample t="11853" it="0" lt="12" ct="0" ts="1557430645945" s="true" lb="Window-1" rc="200" rm="OK" tn="LiveStream 1-31" dt="" by="873" sby="2745098" ng="50" na="50">
+    <sample t="11840" it="0" lt="16" ct="0" ts="1557430645958" s="true" lb="index.m3u8-0" rc="200" rm="OK" tn="LiveStream 1-31" dt="" by="396" sby="2744953" ng="0" na="0"/>
+  </sample>
+</sample>
+</testResults>
